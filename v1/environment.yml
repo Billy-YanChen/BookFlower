@@ -1,0 +1,9 @@
+name: gluon
+dependencies:
+- python=3.8
+- pip:
+  - mxnet-cu110
+  - d2lzh
+  - jupyter
+  - matplotlib
+  - pandas
